@@ -1,0 +1,266 @@
+---
+title: "CV"
+author: "Martín Jacinto"
+email: mjacint1@uci.edu
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  html_document:
+    df_print: paged
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 10pt
+geometry: margin=1in
+jobtitle: PhD Candidate, University of California
+linkcolor: black
+fontawesome: yes
+phone: 805-421-9113
+address: Department of Sociology · 3151 Social Science Plaza A · Irvine, CA 92697
+updated: no
+urlcolor: blue
+web: sites.uci.edu/martinjacinto726
+---
+
+```{r setup, include=FALSE}
+
+require("knitr")
+
+knitr::opts_chunk$set(echo=TRUE, cache = TRUE, warning = FALSE, 
+                      message = FALSE, cache.lazy = FALSE)
+
+knitr::opts_knit$set(root.dir="~/Google Drive/UCI/Job market/Materials/CV_Rmd")
+
+```
+
+# Education
+
+**Ph.D. Sociology.** University of California, Irvine \hfill 2021 (expected)
+
+* Dissertation title: *The Impact of the 2008-2009 Global Economic Crisis on the Global North-South Divide*
+
+* Committee: Katherine Faust, David A. Smith, Matthew C. Mahutga, David Schaefer
+
+**M.A. Sociology.** University of California, Irvine \hfill 2016
+
+**M.A. Latin American and Iberian Studies.** University of California, Santa Barbara \hfill 2012
+
+**B.A. Political Science.** University of California, Santa Barbara \hfill 2009
+
+# Areas of Specialization 
+
+* Globalization; Economic Sociology; Inequality and Stratification;     Development; Social Network Analysis; Quantitative Methods; Latin     America
+
+# Publications
+
+## Under Review
+
+- **Jacinto, Martín**. "Understanding the Impact of the 2008-2009       Global Economic Crisis on the Global North-South Divide: A Global     Commodity Chain Framework and Application." (Revise and resubmit)
+
+- **Jacinto, Martín**. “Interrupting the Domestic Democratic Peace: Understanding Neoliberal State Repression in Latin America.” (Under review)
+
+- Gibson, C. Ben and **Martín Jacinto**. "The Convergence of Media Consensus in the 2014 Ayotzinapa Student Disappearance: A Cultural Consensus Analysis of Media Coverage.” (Under review)
+
+## Manuscript in Progress
+
+- **Jacinto, Martín**. "The Impact of the 2008-2009 Global Economimc Crisis on the Structure and Dynamics of the World Economy: A Network Analysis of International Trade."
+
+- Faust, Katherine and **Martín Jacinto**. “Are there Core-Periphery Positions in Word Trade Networks? Cluster Analysis in Multi-Relational International Trade Networks, 1965-2000.”
+
+# Fellowships & Grants
+
+### External 
+
+- Alternate. Ford Foundation Pre-Doctoral Fellowship Program   \hfill 2017
+
+- Honorable Mention. Ford Foundation Pre-Doctoral Fellowship Program \hfill 2016
+
+- Honorable Mention. Ford Foundation Pre-Doctoral Fellowship Program \hfill 2015
+
+### Internal
+
+*University of California, Irvine*
+
+- Summer Fellowship. Division of Teaching Excellence and Innovation ($5000) \hfill 2020
+
+- University of California President's Dissertation Year Fellowship ($45,826.60) \hfill 2020
+
+- Research Fellowship. Center for Global Peace and Conflict Studies ($1500) \hfill 2020
+
+- Research Fellowship. Kugelman Center for Citizen Peacebuilding ($1200) \hfill 2020
+
+- Associate Dean's Fellowship. School of Social Sciences ($6900) \hfill 2020
+
+- Travel Grant. Graduate Division ($1000) \hfill 2019
+
+- Research Fellowship. Kugelman Center for Citizen Peacebuilding ($1500) \hfill 2019
+
+- Summer Research Fellowship. School of Social Sciences ($1000) \hfill 2017
+
+- Travel Grant. Graduate Division ($1000) \hfill 2016
+
+- Research Fellowship. Center for Global Peace and Conflict Studies ($1500) \hfill 2016
+
+- Summer Research Fellowship. School of Social Sciences ($600) \hfill 2015
+
+- Competitive Edge Summer Research Fellowship. Graduate Division ($5000) \hfill 2014
+
+- Eugene Cota-Robles Diversity Fellowship. Graduate Division ($190,424) \hfill 2014
+
+# Presentations
+
+- "The Impact of the 2008-2009 Global Economimc Crisis on the Structure and Dynamics of the World Economy: A Network Analysis of International Trade." 
+   
+    * · _2021 Annual Meeting of the Pacific Sociological Association (Virtual)_
+    * · _2019 Annual Meeting of the California Sociological Association (Riverside, CA)_
+    * · _2018 The Center for Global Peace and Conflict Studies Conference (Irvine, CA)_
+    
+- "Are There Core-Periphery Positions in World Trade Networks? Cluster Analysis in Multi-Relational International Trade Networks, 1965, 1980, and 2000."
+
+    * · _XXXVIII Sunbelt Conference (Utrecht, Netherlands)_
+    
+- "Interrupting the Domestic Democratic Peace: State Repression, Democracy and Social Mobilization in Latin America."
+
+    * · _2017 Annual Meeting of the Sociological Association (Montreal,       Canada)_
+    * · _2016 Annual Meeting of the Society for the Study of Social Problems (Seattle, WA)_
+
+- "Applying Fuzzy-Set Qualitative Comparative Analysis (fsQCA) to the Study of State Violence and Neoliberal Development in Latin America."
+
+    * · _2015 UC Irvine's Annual Associate Graduate Student Research Symposium (Irvine, CA)_
+    * · _2014 UC Irvine's Competitive Edge Summer Research Symposium (Irvine, CA)_
+    
+- "Crisis of Democracy and Radical Social Mobilization: The Case of the 2006 APPO Movement in Oaxaca, Mexico."
+
+    * · _2012 UC Santa Barbara's 14th Annual Lusofone and Hispanic Graduate Student (Santa Barbara, CA)_
+    * · _2012 Annual Meeting of the Pacific Sociological Association (Long Beach, CA)_
+
+# Honors and Awards
+**Tom Angell Fellowship Award**. University of California Irvine \hfill 2020
+
+> • The award recognizes one graduate student for demonstrating outstanding mentorship and commitment to diversity at UCI.
+    
+**Latino Excellence and Achievement Dinner (LEAD) Award**. University of California, Irvine \hfill 2018
+
+> • Award recognizes graduate students that champion academic success amongst the Latinx community at UCI and in Orange County, CA.
+  
+# Teaching Experience
+
+### Instructor
+
+*University of California, Irvine*
+  
+* · Sociology/Anthropology 10B: Statistics and Probability, II (online) (Summer 2020)
+* · Statistics Bootcamp Refresher (in-person, online) (Fall 2018, 2019, 2020)
+ 
+*California State University, Dominguez Hills*
+
+ * · Globalization: Theory and Research (in-person) (Fall 2018)
+
+### Teaching Assistant
+
+*University of California, Irvine; Department of Sociology*
+
+ * · Graduate Statistics, I, II, III
+ * · Statistics for Sociology, I, II, III
+ * · Sociology of Birth, Death, and Migration
+ * · Sociological Theory
+ * · Introduction to Sociology
+ 
+*University of California, Santa Barbara; Department of Spanish and Portuguese*
+
+ * · Beginning Spanish, I, II
+ * · Latin American and Iberian Studies
+ 
+# Pedagogical Development
+
+### University of California, Irvine's Division of Teaching Excellence and Innovation 
+
+**Pedagogical Fellow**  \hfill 2019-2020
+
+> •	Facilitated interactive workshops designed to provide new Teaching Assistants (TAs) with skills and information that helped them jumpstart their teaching careers at the University of California, Irvine 
+
+> •	Assessed fellows’ teaching performance by conducting in-class observation of their teaching then provided one-on-one consultation and feedback
+
+> •	Worked with department director on developing an application and selection process of new Pedagogical Fellows that protected against selection bias, created an inclusive experience, and streamlined an effective interviewing process 
+
+**DTEI Summer Fellows Program Coordinator** \hfill 2020-2021
+
+> • Supported the university in fast-tracking the development of a pedagogical training program that prepares faculty and graduate students to effectively transition to online remote instruction 
+
+> • Managed and supervised the pedagogical training of 50 fellows and faculty from various disciplines.
+
+> • Assessed fellows’ teaching performance by conducting in-class observation of their teaching then provided one-on-one consultation and feedback
+
+# Service and Professsional Affiliations
+
+### External (*Discipline*)
+
+* Chair of Graduate Student Paper Competition Committee. Global Division. The Society for the Study of Social Problems 
+
+* Student Representative. Section of Political Economy and World-System. American Sociological Association. 
+
+* Manuscript Reviewer. *Sociological Focus*
+
+### Internal (*Department, University,* and *Community*)
+
+##### University of California, Irvine
+
+* Graduate Student Coordinator. Graduate Access Preparation Program (GAPP). 
+Student Outreach and Retention (SOAR) Center 
+ 
+* Graduate Student Mentor. Summer Undergraduate Research Fellowship Program.  Graduate Division
+
+* Humanities and Social Science Chair. Diverse Educational Community and Doctoral Experience (DECADE) Executive Student Council. Graduate Division 
+
+* Organizer. The Know-How Sessions. Diverse Educational Community and Doctoral Experience (DECADE). Graduate Division
+
+* Vice president of Finance. Associated Graduate Student (AGS). Office of Student Affairs
+
+* Board Member. Graduate Student and Postdoctoral Resource Center Advisory Board. Graduate Division 
+
+* Graduate Student Peer Mentor. Peer Mentoring Program. Department of Sociology.
+
+#### Affiliations
+
+* American Sociological Association
+            
+    * Section Membership:
+              
+        - · Political Economy of the World-System
+       
+        - · Global and Transnational Sociology
+       
+        - · Sociology of Development
+       
+        - · Mathematical Sociology
+        
+* Pacific Sociological Association
+    
+* Society for the Study of Social Problems
+
+* Center for Network and Relational Analysis
+
+# Skills and Technical Expertise
+
+* Technical skills: Microsoft Office (Excel, Word, PowerPoint), SPSS, Stata, R, \LaTeX\, HTML, Tableau
+
+* Web-based conferencing and communication platforms: Zoom, Canvas, Blackboard, Slack
+
+* Languages: Spanish (advanced fluency in speaking and reading; intermediate fluency in writing)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

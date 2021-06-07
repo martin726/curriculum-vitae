@@ -1,23 +1,24 @@
-award,date,with,amount,tag
-Superior Poster Presenter,11/3/05,Sigma Xi,,presentation
-First place in M.S. graduate student poster competition,3/6/06,"Entomological Society of America, Pacific Branch",,presentation
-Cynthia Lechner Biology Award,5/1/06,Whitman College,NA,award
-Francis M. and Harlie M. Clark Research Support Grant,3/1/08,UIUC,"$2,500.00 ",grant
-Sigma Xi Grant-in-Aid of Research (rejected),12/12/08,Sigma Xi,NA,failed
-Teaching Excellence award,3/1/09,UIUC School of Integrative Biology,NA,award
-"Program in Ecology, Evolution, and Conservation Biology Research Grant",3/1/08,"UIUC Program for Ecology, Evolution, and Conservation Biology",$850.00 ,grant
-"Program in Ecology, Evolution, and Conservation Biology Research Grant",3/1/09,"UIUC Program for Ecology, Evolution, and Conservation Biology",$850.00 ,grant
-Francis M. and Harlie M. Clark Research Support Grant,3/1/09,UIUC,"$2,500.00 ",grant
-Hertz Foundation Fellowship (rejected),10/31/14,Hertz Foundation,NA,failed
-Graduate Student Travel Fund (Gordon Research Conference),12/4/15,Graduate School of Arts and Sciences,$400.00 ,travel
-Tufts Institute for the Environment Fellowship,1/1/16,Tufts Institute for the Environment,"$4,975.00 ",grant
-Second place in Tufts Graduate Research Symposium 15 minute talk category,2/18/16,Graduate School of Arts and Sciences,$50.00 ,presentation
-Graduate Student Travel Fund (Gordon Research Conference),2/11/17,Graduate School of Arts and Sciences,$400.00 ,travel
-First place in Tufts Graduate Research Symposium 5 minute talk category,2/24/17,Graduate School of Arts and Sciences,$100.00 ,presentation
-First place in section for student talks,11/12/18,Entomological Society of America,$75.00 ,presentation
-Graduate Student Travel Fund (rstudio::conf),1/28/19,Graduate School of Arts and Sciences,$200.00 ,travel
-First place in Tufts Graduate Research Symposium 15 minute talk category,3/1/19,Graduate School of Arts and Sciences,$100.00 ,presentation
-Finalist for Outstanding Contributions to Undergraduate Education Award,3/20/19,Graduate School of Arts and Sciences,NA,award
-First place in section for student talks,11/18/19,Entomological Society of America,$75 ,presentation
-R Consortium Infrastructure Steering Committee Grant,11/26/19,R Consortium,"$6,000 ",grant
-NSF REU Supplement (co-authored with E. Bruna),3/10/21,NSF,"$7,200 ",grant
+award,date,with,amount,tag,source
+Eugene Cota-Robles Diversity Fellowship,6/1/14,UC Irvine Graduate Division,"$190,424.00",Award,internal
+Competitive Edge Summer Research Fellowship,6/1/14,UC Irvine Graduate Division,"$5,000.00",Award,internal
+Ford Foundation Pre-Doctoral Fellowship,3/1/15,Ford Foundation,,Honorable Mention,External
+Summer Research Grant,6/1/15,UC Irvine Sociology Department,$600.00,Grant,Internal
+Research Fellowship,6/1/15,Kugelman Center for Citizen Peacebuilding,"$1,500.00",Award,External
+Ford Foundation Pre-Doctoral Fellowship,3/1/16,Ford Foundation,,Honorable Mention,External
+Travel Grant,7/1/16,UC Irvine Graduate Division,"$1,000.00",Grant,internal
+Ford Foundation Pre-Doctoral Fellowship,3/1/17,Ford Foundation,,Alternate,External
+Associate Dean's Fellowship,3/1/20,UC Irvine School of Social Sciences,"$6,900.00",Award,internal
+Pedagogical Fellowship,3/1/20,UC Irvine Division of Teaching Excellence and Innovation ,"$2,000.00",Award,internal
+Research Fellowship,6/1/20,Kugelman Center for Citizen Peacebuilding,"$1,200.00",Award,External
+Research Grant,7/1/20,Center for Global Peace and Conflict Studies,"$1,500.00",Grant,External
+Teaching Development Fellowship,7/1/20,UC Irvine Division of Teaching Excellence and Innovation ,"$7,500.00",Award,internal
+UC President's Dissertation Year Fellowship,9/1/20,UC Irvine Graduate Division,"$45,826.60",Award,internal
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
