@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2021.5.17)  26 MAY 2021 13:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (TeX Live 2022/dev) (preloaded format=pdflatex 2021.9.27)  13 OCT 2021 14:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **CV_-main-.tex
 (./CV_-main-.tex
-LaTeX2e <2020-10-01> patch level 4
-L3 programming layer <2021-05-11> (/Users/mil_chistes_726/Library/TinyTeX/texmf
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-08-27> (/Users/mil_chistes_726/Library/TinyTeX/texmf
 -dist/tex/latex/base/article.cls
-Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count179
-\c@section=\count180
-\c@subsection=\count181
-\c@subsubsection=\count182
-\c@paragraph=\count183
-\c@subparagraph=\count184
-\c@figure=\count185
-\c@table=\count186
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
 \abovecaptionskip=\skip47
 \belowcaptionskip=\skip48
 \bibindent=\dimen138
@@ -35,7 +35,7 @@ Package: amssymb 2013/01/14 v3.01 AMS font symbols
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/amsfonts/amsfonts.
 sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks15
+\@emptytoks=\toks16
 \symAMSa=\mathgroup5
 \symAMSb=\mathgroup6
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
@@ -44,7 +44,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 ))
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsmath.st
 y
-Package: amsmath 2020/09/23 v2.17i AMS math features
+Package: amsmath 2021/04/20 v2.17j AMS math features
 \@mathmargin=\skip49
 For additional information on amsmath, use the `?' option.
 
@@ -54,7 +54,7 @@ Package: amstext 2000/06/29 v2.01 AMS text
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks16
+\@emptytoks=\toks17
 \ex@=\dimen139
 ))
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsbsy.sty
@@ -64,41 +64,41 @@ Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count187
+\inf@bad=\count190
 LaTeX Info: Redefining \frac on input line 234.
-\uproot@=\count188
-\leftroot@=\count189
+\uproot@=\count191
+\leftroot@=\count192
 LaTeX Info: Redefining \overline on input line 399.
-\classnum@=\count190
-\DOTSCASE@=\count191
+\classnum@=\count193
+\DOTSCASE@=\count194
 LaTeX Info: Redefining \ldots on input line 496.
 LaTeX Info: Redefining \dots on input line 499.
 LaTeX Info: Redefining \cdots on input line 620.
-\Mathstrutbox@=\box47
-\strutbox@=\box48
+\Mathstrutbox@=\box50
+\strutbox@=\box51
 \big@size=\dimen141
 LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
-\macc@depth=\count192
-\c@MaxMatrixCols=\count193
+\macc@depth=\count195
+\c@MaxMatrixCols=\count196
 \dotsspace@=\muskip16
-\c@parentequation=\count194
-\dspbrk@lvl=\count195
-\tag@help=\toks17
-\row@=\count196
-\column@=\count197
-\maxfields@=\count198
-\andhelp@=\toks18
+\c@parentequation=\count197
+\dspbrk@lvl=\count198
+\tag@help=\toks18
+\row@=\count199
+\column@=\count266
+\maxfields@=\count267
+\andhelp@=\toks19
 \eqnshift@=\dimen142
 \alignsep@=\dimen143
 \tagshift@=\dimen144
 \tagwidth@=\dimen145
 \totwidth@=\dimen146
 \lineht@=\dimen147
-\@envbody=\toks19
+\@envbody=\toks20
 \multlinegap=\skip50
 \multlinetaggap=\skip51
-\mathdisplay@stack=\toks20
+\mathdisplay@stack=\toks21
 LaTeX Info: Redefining \[ on input line 2923.
 LaTeX Info: Redefining \] on input line 2924.
 )
@@ -122,16 +122,16 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
 ) (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T1+pplj on input line 1
 12.
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/psnfss/t1pplj.fd
 File: t1pplj.fd 2004/09/06 font definitions for T1/pplj.
 )) (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/base/inputenc.s
 ty
-Package: inputenc 2020/08/01 v1.3d Input encoding file
-\inpenc@prehook=\toks21
-\inpenc@posthook=\toks22
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks22
+\inpenc@posthook=\toks23
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/geometry/geometry.
 sty
@@ -140,14 +140,14 @@ Package: geometry 2020/01/02 v5.9 Page Geometry
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/graphics/keyval.st
 y
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks23
+\KV@toks@=\toks24
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 )
-\Gm@cnth=\count199
-\Gm@cntv=\count266
-\c@Gm@tempcnt=\count267
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
 \Gm@bindingoffset=\dimen148
 \Gm@wd@mp=\dimen149
 \Gm@odd@mp=\dimen150
@@ -156,7 +156,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layoutheight=\dimen153
 \Gm@layouthoffset=\dimen154
 \Gm@layoutvoffset=\dimen155
-\Gm@dimlist=\toks24
+\Gm@dimlist=\toks25
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/sectsty/sectsty.st
 y
@@ -190,17 +190,17 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/etoolbox/etoolbox.
 sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count268
+\etb@tempcnta=\count271
 ))
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/titlesec/titlesec.
 sty
-Package: titlesec 2019/10/16 v2.13 Sectioning titles
-\ttl@box=\box49
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box52
 \beforetitleunit=\skip52
 \aftertitleunit=\skip53
 \ttl@plus=\dimen156
 \ttl@minus=\dimen157
-\ttl@toksa=\toks25
+\ttl@toksa=\toks26
 \titlewidth=\dimen158
 \titlewidthlast=\dimen159
 \titlewidthfirst=\dimen160
@@ -229,11 +229,11 @@ rs
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.
 sty
-Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
+Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.
 sty
-Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+Package: hyperref 2021-06-07 v7.00m Hypertext links for LaTeX
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdfte
 xcmds.sty
@@ -269,18 +269,18 @@ y
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 \@linkdim=\dimen161
-\Hy@linkcounter=\count269
-\Hy@pagecounter=\count270
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.de
 f
-File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2021-06-07 v7.00m Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref-
 langpatches.def
-File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel la
+File: hyperref-langpatches.def 2021-06-07 v7.00m Hyperref: patches for babel la
 nguages
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.
@@ -291,10 +291,10 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 s.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count271
+\Hy@SavedSpaceFactor=\count274
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2021-06-07 v7.00m Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -305,7 +305,7 @@ Package hyperref Info: Plain pages OFF on input line 4207.
 Package hyperref Info: Backreferencing OFF on input line 4212.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4445.
-\c@Hy@tempcnt=\count272
+\c@Hy@tempcnt=\count275
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
@@ -322,34 +322,33 @@ tcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count273
+\Fld@menulength=\count276
 \Field@Width=\dimen163
 \Fld@charsize=\dimen164
-Package hyperref Info: Hyper figures OFF on input line 6075.
-Package hyperref Info: Link nesting OFF on input line 6080.
-Package hyperref Info: Hyper index ON on input line 6083.
-Package hyperref Info: backreferencing OFF on input line 6090.
-Package hyperref Info: Link coloring OFF on input line 6095.
-Package hyperref Info: Link coloring with OCG OFF on input line 6100.
-Package hyperref Info: PDF/A mode OFF on input line 6105.
-LaTeX Info: Redefining \ref on input line 6145.
-LaTeX Info: Redefining \pageref on input line 6149.
+Package hyperref Info: Hyper figures OFF on input line 6076.
+Package hyperref Info: Link nesting OFF on input line 6081.
+Package hyperref Info: Hyper index ON on input line 6084.
+Package hyperref Info: backreferencing OFF on input line 6091.
+Package hyperref Info: Link coloring OFF on input line 6096.
+Package hyperref Info: Link coloring with OCG OFF on input line 6101.
+Package hyperref Info: PDF/A mode OFF on input line 6106.
+LaTeX Info: Redefining \ref on input line 6146.
+LaTeX Info: Redefining \pageref on input line 6150.
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/base/atbegshi-ltx.
 sty
-Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
-ge
-with kernel methods
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
 )
-\Hy@abspage=\count274
-\c@Item=\count275
-\c@Hfootnote=\count276
+\Hy@abspage=\count277
+\c@Item=\count278
+\c@Hfootnote=\count279
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.d
 ef
-File: hpdftex.def 2021-02-27 v7.00k Hyperref driver for pdfTeX
+File: hpdftex.def 2021-06-07 v7.00m Hyperref driver for pdfTeX
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx
 .sty
@@ -357,8 +356,8 @@ Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
 e
 with kernel methods
 )
-\Fld@listcount=\count277
-\c@bookmark@seq@number=\count278
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/rerunfilecheck/rer
 unfilecheck.sty
@@ -389,7 +388,7 @@ Package: datetime 2015/03/20 v2.60 Date Time Package
 sty
 Package: fmtcount 2020/01/30 v3.07
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/xkeyval/xkeyval.st
 y
@@ -399,10 +398,10 @@ Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
 tex
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/generic/xkeyval/xkvutils
 .tex
-\XKV@toks=\toks26
-\XKV@tempa@toks=\toks27
+\XKV@toks=\toks27
+\XKV@tempa@toks=\toks28
 )
-\XKV@depth=\count279
+\XKV@depth=\count282
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fcprefix.
@@ -412,48 +411,48 @@ Package: fcprefix 2012/09/28
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/fmtcount/fcnumpars
 er.sty
 Package: fcnumparser 2017/06/15
-\fc@digit@counter=\count280
+\fc@digit@counter=\count283
 ))
-\c@padzeroesN=\count281
-\fc@tmpcatcode=\count282
-\@DT@modctr=\count283
-\@ordinalctr=\count284
-\@orgargctr=\count285
-\@strctr=\count286
-\@tmpstrctr=\count287
-\@DT@loopN=\count288
-\@DT@X=\count289
+\c@padzeroesN=\count284
+\fc@tmpcatcode=\count285
+\@DT@modctr=\count286
+\@ordinalctr=\count287
+\@orgargctr=\count288
+\@strctr=\count289
+\@tmpstrctr=\count290
+\@DT@loopN=\count291
+\@DT@X=\count292
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/datetime/datetime-
 defaults.sty
 Package: datetime-defaults 2013/09/10
 )
-\@day=\count290
-\@month=\count291
-\@year=\count292
-\c@HOUR=\count293
-\c@HOURXII=\count294
-\c@MINUTE=\count295
-\c@TOHOUR=\count296
-\c@TOMINUTE=\count297
-\c@SECOND=\count298
-\currenthour=\count299
-\currentminute=\count300
-\currentsecond=\count301
+\@day=\count293
+\@month=\count294
+\@year=\count295
+\c@HOUR=\count296
+\c@HOURXII=\count297
+\c@MINUTE=\count298
+\c@TOHOUR=\count299
+\c@TOMINUTE=\count300
+\c@SECOND=\count301
+\currenthour=\count302
+\currentminute=\count303
+\currentsecond=\count304
 Package datetime Info: No datetime.cfg file found, using default settings on in
 put line 308.
-\@dtctr=\count302
-\dayofyear=\count303
-\dayofweek=\count304
+\@dtctr=\count305
+\dayofyear=\count306
+\dayofweek=\count307
 LaTeX Info: Redefining \today on input line 736.
-\dt@a=\toks28
-\dt@b=\toks29
+\dt@a=\toks29
+\dt@b=\toks30
 )
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backen
 d-pdftex.def
-File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count305
-\l__pdf_internal_box=\box50
+File: l3backend-pdftex.def 2021-08-04 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count308
+\l__pdf_internal_box=\box53
 ) (./CV_-main-.aux)
 \openout1 = `CV_-main-.aux'.
 
@@ -520,7 +519,7 @@ Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
 .cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package color Info: Driver file: pdftex.def on input line 149.
 
 (/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/tex/latex/graphics-def/pdfte
 x.def
@@ -544,7 +543,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 ettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count306
+\c@section@level=\count309
 )
 LaTeX Info: Redefining \ref on input line 103.
 LaTeX Info: Redefining \pageref on input line 103.
@@ -614,7 +613,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 116.
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 189.
+(hyperref)                than one, level fixed on input line 157.
 
 [1
 
@@ -622,31 +621,31 @@ Package hyperref Warning: Difference (2) between bookmark levels is greater
 x.map}]
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 337.
-
-[2]
-
-Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 392.
+(hyperref)                than one, level fixed on input line 260.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 438.
+(hyperref)                than one, level fixed on input line 304.
 
-[3] 
+[2] [3]
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 454.
+
+[4] 
 AED: lastpage setting LastPage
-[4] (./CV_-main-.aux)
+[5] (./CV_-main-.aux)
 Package rerunfilecheck Info: File `CV_-main-.out' has not changed.
-(rerunfilecheck)             Checksum: 8A960F22B1020E58CFB1812E2F87C24C;3288.
+(rerunfilecheck)             Checksum: E7B042BE5F463C7445888CA8BD791B66;3292.
  ) 
 Here is how much of TeX's memory you used:
- 12828 strings out of 480796
- 187422 string characters out of 5903262
- 509297 words of memory out of 5000000
- 29965 multiletter control sequences out of 15000+600000
+ 12893 strings out of 480559
+ 188802 string characters out of 5901779
+ 515413 words of memory out of 5000000
+ 30267 multiletter control sequences out of 15000+600000
  446517 words of font info for 89 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 70i,11n,76p,1198b,401s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 72i,11n,80p,1198b,403s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.en
 c} </Users/mil_chistes_726/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/e
 c/ectt1000.600pk>{/Users/mil_chistes_726/Library/TinyTeX/texmf-dist/fonts/enc/d
@@ -659,10 +658,10 @@ il_chistes_726/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb><
 i8a.pfb></Users/mil_chistes_726/Library/TinyTeX/texmf-dist/fonts/type1/urw/pala
 tino/uplr8a.pfb></Users/mil_chistes_726/Library/TinyTeX/texmf-dist/fonts/type1/
 urw/palatino/uplri8a.pfb>
-Output written on CV_-main-.pdf (4 pages, 128184 bytes).
+Output written on CV_-main-.pdf (5 pages, 134281 bytes).
 PDF statistics:
- 171 PDF objects out of 1000 (max. 8388607)
- 136 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 183 PDF objects out of 1000 (max. 8388607)
+ 140 compressed objects within 2 object streams
+ 27 named destinations out of 1000 (max. 500000)
  153 words of extra memory for PDF output out of 10000 (max. 10000000)
 

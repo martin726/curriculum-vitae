@@ -51,21 +51,76 @@ knitr::opts_knit$set(root.dir="~/Google Drive/UCI/Job market/Materials/CV_Rmd")
 
 * Globalization; Economic Sociology; Inequality and Stratification;     Development; Social Network Analysis; Quantitative Methods; Latin     America
 
+# Teaching Experience
+
+### Instructor
+
+*University of California, Irvine*
+  
+* · Sociology/Anthropology 10B: Statistics and Probability, II (online) (Summer 2020)
+* · Statistics Bootcamp Refresher (in-person, online) (Fall 2018, 2019, 2020)
+ 
+*California State University, Dominguez Hills*
+
+ * · Globalization: Theory and Research (in-person) (Fall 2018)
+ * · Global Organizations and Social Processes (in-person) (Fall 2021)
+ 
+*California State University, Long Beach*
+
+ * · Elementary Statistics (in-person) (Fall 2021)
+
+### Teaching Assistant
+
+*University of California, Irvine; Department of Sociology*
+
+ * · Graduate Statistics, I, II, III
+ * · Statistics for Sociology, I, II, III
+ * · Sociology of Birth, Death, and Migration
+ * · Sociological Theory
+ * · Introduction to Sociology
+ 
+*University of California, Santa Barbara; Department of Spanish and Portuguese*
+
+ * · Beginning Spanish, I, II
+ * · Latin American and Iberian Studies
+
 # Publications
 
 ## Under Review
 
-- **Jacinto, Martín**. "Understanding the Impact of the 2008-2009       Global Economic Crisis on the Global North-South Divide: A Global     Commodity Chain Framework and Application." (Revise and resubmit)
+- **Jacinto, Martín**. "Understanding the Impact of the 2008-2009 Global Economic Crisis on the Global North-South Divide: A Global Commodity Chain Framework and Application." (revise and resubmit at *Sociology Compass*)
 
-- **Jacinto, Martín**. “Interrupting the Domestic Democratic Peace: Understanding Neoliberal State Repression in Latin America.” (Under review)
+- **Jacinto, Martín**. “Interrupting the Domestic Democratic Peace: Understanding Neoliberal State Repression in Latin America.” (under review)
 
-- Gibson, C. Ben and **Martín Jacinto**. "The Convergence of Media Consensus in the 2014 Ayotzinapa Student Disappearance: A Cultural Consensus Analysis of Media Coverage.” (Under review)
+- **Jacinto, Martín**. "The Core-Periphery Structure of the 21st Century World Economy: Evidence from the International Trade Network, 2001-2017." (under review)
 
-## Manuscript in Progress
+- Gibson, C. Ben and **Martín Jacinto**. "The Convergence of Media Consensus in the 2014 Ayotzinapa Student Disappearance: A Cultural Consensus Analysis of Media Coverage.” (under review)
 
-- **Jacinto, Martín**. "The Impact of the 2008-2009 Global Economimc Crisis on the Structure and Dynamics of the World Economy: A Network Analysis of International Trade."
+- **Jacinto, Martín**. "The Impact of the 2008-2009 Global Financial Crisis on Economic Globalization: A Network Analysis." (under review)
+
+## Manuscripts in Progress
 
 - Faust, Katherine and **Martín Jacinto**. “Are there Core-Periphery Positions in Word Trade Networks? Cluster Analysis in Multi-Relational International Trade Networks, 1965-2000.”
+
+# Pedagogical Development
+
+### University of California, Irvine's Division of Teaching Excellence and Innovation 
+
+**Pedagogical Fellow**  \hfill 2019-2020
+
+> •	Facilitated interactive workshops designed to provide new Teaching Assistants (TAs) with skills and information that helped them jumpstart their teaching careers at the University of California, Irvine 
+
+> •	Assessed fellows’ teaching performance by conducting in-class observation of their teaching then provided one-on-one consultation and feedback
+
+> •	Worked with department director on developing an application and selection process of new Pedagogical Fellows that protected against selection bias, created an inclusive experience, and streamlined an effective interviewing process 
+
+**DTEI Summer Fellows Program Coordinator** \hfill 2020-2021
+
+> • Supported the university in fast-tracking the development of a pedagogical training program that prepares faculty and graduate students to effectively transition to online remote instruction 
+
+> • Managed and supervised the pedagogical training of 50 fellows and faculty from various disciplines.
+
+> • Assessed fellows’ teaching performance by conducting in-class observation of their teaching then provided one-on-one consultation and feedback
 
 # Fellowships & Grants
 
@@ -142,54 +197,6 @@ knitr::opts_knit$set(root.dir="~/Google Drive/UCI/Job market/Materials/CV_Rmd")
 **Latino Excellence and Achievement Dinner (LEAD) Award**. University of California, Irvine \hfill 2018
 
 > • Award recognizes graduate students that champion academic success amongst the Latinx community at UCI and in Orange County, CA.
-  
-# Teaching Experience
-
-### Instructor
-
-*University of California, Irvine*
-  
-* · Sociology/Anthropology 10B: Statistics and Probability, II (online) (Summer 2020)
-* · Statistics Bootcamp Refresher (in-person, online) (Fall 2018, 2019, 2020)
- 
-*California State University, Dominguez Hills*
-
- * · Globalization: Theory and Research (in-person) (Fall 2018)
-
-### Teaching Assistant
-
-*University of California, Irvine; Department of Sociology*
-
- * · Graduate Statistics, I, II, III
- * · Statistics for Sociology, I, II, III
- * · Sociology of Birth, Death, and Migration
- * · Sociological Theory
- * · Introduction to Sociology
- 
-*University of California, Santa Barbara; Department of Spanish and Portuguese*
-
- * · Beginning Spanish, I, II
- * · Latin American and Iberian Studies
- 
-# Pedagogical Development
-
-### University of California, Irvine's Division of Teaching Excellence and Innovation 
-
-**Pedagogical Fellow**  \hfill 2019-2020
-
-> •	Facilitated interactive workshops designed to provide new Teaching Assistants (TAs) with skills and information that helped them jumpstart their teaching careers at the University of California, Irvine 
-
-> •	Assessed fellows’ teaching performance by conducting in-class observation of their teaching then provided one-on-one consultation and feedback
-
-> •	Worked with department director on developing an application and selection process of new Pedagogical Fellows that protected against selection bias, created an inclusive experience, and streamlined an effective interviewing process 
-
-**DTEI Summer Fellows Program Coordinator** \hfill 2020-2021
-
-> • Supported the university in fast-tracking the development of a pedagogical training program that prepares faculty and graduate students to effectively transition to online remote instruction 
-
-> • Managed and supervised the pedagogical training of 50 fellows and faculty from various disciplines.
-
-> • Assessed fellows’ teaching performance by conducting in-class observation of their teaching then provided one-on-one consultation and feedback
 
 # Service and Professsional Affiliations
 
