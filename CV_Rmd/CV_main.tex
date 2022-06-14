@@ -1,0 +1,575 @@
+\documentclass[10pt,]{article}
+\usepackage[sc, osf]{mathpazo}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage[margin=1in]{geometry}
+
+
+
+
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% Now begins the stuff that I added.
+% ----------------------------------
+
+% Custom section fonts
+\usepackage{sectsty}
+\sectionfont{\rmfamily\mdseries\large\bf}
+\subsectionfont{\rmfamily\mdseries\normalsize\scshape}
+
+
+% Make lists without bullets
+\renewenvironment{itemize}{
+  \begin{list}{}{
+    \setlength{\leftmargin}{1.5em}
+  }
+}{
+  \end{list}
+}
+
+
+% Make parskips rather than indent with lists.
+\usepackage{parskip}
+\usepackage{titlesec}
+\titlespacing\section{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+\titlespacing\subsection{0pt}{12pt plus 4pt minus 2pt}{4pt plus 2pt minus 2pt}
+
+% Use fontawesome. Note: you'll need TeXLive 2015. Update.
+\usepackage{fontawesome}
+
+% Fancyhdr, as I tend to do with these personal documents.
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\renewcommand{\headrulewidth}{0.0pt}
+\renewcommand{\footrulewidth}{0.0pt}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{
+\cfoot{\scriptsize  Martín Jacinto - CV }}
+\rfoot{\scriptsize \thepage/{\hypersetup{linkcolor=black}\pageref{LastPage}}}
+
+% Always load hyperref last.
+\usepackage{hyperref}
+\PassOptionsToPackage{usenames,dvipsnames}{color} % color is loaded by hyperref
+
+\hypersetup{unicode=true,
+            pdftitle={Martín Jacinto:  CV (Curriculum Vitae)},
+            pdfauthor={Martín Jacinto},
+            colorlinks=true,
+            linkcolor=black,
+            citecolor=Blue,
+            urlcolor=blue,
+            breaklinks=true, bookmarks=true}
+\urlstyle{same}  % don't use monospace font for urls
+
+% Make AP style (kinda) dates for the updated/today field
+
+\usepackage{datetime}
+\newdateformat{apstylekinda}{%
+  \shortmonthname[\THEMONTH]. \THEDAY, \THEYEAR}
+
+\begin{document}
+
+
+\centerline{\huge \bf Martín Jacinto}
+
+\vspace{2 mm}
+
+\hrule
+
+\vspace{2 mm}
+
+\moveleft.5\hoffset\centerline{Assistant Professor, California State
+University - Chico}
+\moveleft.5\hoffset\centerline{College of Behavioral and Social Sciences
+· Butte Hall, Room 701 · Chico, CA 95929}
+\moveleft.5\hoffset\centerline{ \faEnvelopeO \hspace{1 mm} \href{mailto:}{\tt \href{mailto:mjacinto@csuchico.edu}{\nolinkurl{mjacinto@csuchico.edu}}} \hspace{1 mm}      \faGlobe \hspace{1 mm} \href{http://\url{https://martin726.github.io/mjacinto-website/}}{\tt \url{https://martin726.github.io/mjacinto-website/}}   } 
+
+\vspace{2 mm}
+
+\hrule
+
+
+\hypertarget{education}{%
+\section{Education}\label{education}}
+
+\textbf{Ph.D.~Sociology.} University of California, Irvine \hfill 2022
+
+\begin{itemize}
+\item
+  Dissertation title: \emph{Assessing the Impact of the 2008-09 Global
+  Economic Crisis on the Structure and Dynamics of the Global Trade
+  Network: A Network Analysis of International Trade}
+\item
+  Committee: Katherine Faust, David A. Smith, Matthew C. Mahutga, David
+  Schaefer
+\end{itemize}
+
+\textbf{M.A.~Sociology.} University of California, Irvine \hfill 2016
+
+\textbf{M.A.~Latin American and Iberian Studies.} University of
+California, Santa Barbara \hfill 2012
+
+\textbf{B.A. Political Science.} University of California, Santa Barbara
+\hfill 2009
+
+\hypertarget{areas-of-specialization}{%
+\section{Areas of Specialization}\label{areas-of-specialization}}
+
+\begin{itemize}
+\tightlist
+\item
+  Globalization; Economic Sociology; Inequality and Stratification;
+  Development; Social Network Analysis; Quantitative Methods; Latin
+  America
+\end{itemize}
+
+\hypertarget{teaching-experience}{%
+\section{Teaching Experience}\label{teaching-experience}}
+
+\hypertarget{instructor}{%
+\subsubsection{Instructor}\label{instructor}}
+
+\emph{California State University, Long Beach} \hfill 2021-2022
+
+\begin{itemize}
+\tightlist
+\item
+  Modern Sociological Theory (in-person)
+\item
+  Global Conflict and Resolution (in-person)
+\item
+  Global Sociology (in-person)
+\item
+  Elementary Statistics (in-person and online)
+\end{itemize}
+
+\emph{California State University, Dominguez Hills} \hfill 2018-2021
+
+\begin{itemize}
+\tightlist
+\item
+  Global Organizations and Social Processes (in-person)
+\item
+  Globalization: Theory and Research (in-person)
+\end{itemize}
+
+\emph{University of California, Irvine} \hfill 2018-2020
+
+\begin{itemize}
+\tightlist
+\item
+  Sociology/Anthropology 10B: Statistics and Probability, II (online)
+\item
+  Statistics Bootcamp Refresher (in-person, online)
+\end{itemize}
+
+\hypertarget{teaching-assistant}{%
+\subsubsection{Teaching Assistant}\label{teaching-assistant}}
+
+\emph{University of California, Irvine; Department of Sociology}
+\hfill 2017-2020
+
+\begin{itemize}
+\tightlist
+\item
+  Graduate Statistics, I, II, III
+\item
+  Statistics for Sociology, I, II, III
+\item
+  Sociology of Birth, Death, and Migration
+\item
+  Sociological Theory
+\item
+  Introduction to Sociology
+\end{itemize}
+
+\emph{University of California, Santa Barbara; Department of Spanish and
+Portuguese} \hfill 2011-2012
+
+\begin{itemize}
+\tightlist
+\item
+  Beginning Spanish, I, II
+\item
+  Latin American and Iberian Studies
+\end{itemize}
+
+\hypertarget{publications}{%
+\section{Publications}\label{publications}}
+
+\hypertarget{under-review}{%
+\subsection{Under Review}\label{under-review}}
+
+\begin{itemize}
+\item
+  \textbf{Jacinto, Martín}. ``Understanding the Impact of the 2008-2009
+  Global Economic Crisis on the Global North-South Divide: A Global
+  Commodity Chain Framework and Application.'' (revise and resubmit at
+  \emph{Sociology Compass})
+\item
+  \textbf{Jacinto, Martín}. ``Globalization in the Wake of the 2008-09
+  Global Economic Crisis: A 12 Longitudinal Network Analysis of Global
+  Trade.''
+\item
+  \textbf{Jacinto, Martín}. ``The Stability of the Core-Periphery
+  Structure to the 2008-09 Global Economic Crisis.''
+\item
+  \textbf{Jacinto, Martín}. ``Assessing the Interplay Between the
+  Structure of the Global Trade Network and National Economic
+  Productivity During the 2008-09 Global Economic Crisis.''
+\item
+  Gibson, C. Ben and \textbf{Martín Jacinto}. ``The Convergence of Media
+  Consensus in the 2014 Ayotzinapa Student Disappearance: A Cultural
+  Consensus Analysis of Media Coverage.''
+\end{itemize}
+
+\hypertarget{manuscripts-in-progress}{%
+\subsection{Manuscripts in Progress}\label{manuscripts-in-progress}}
+
+\begin{itemize}
+\tightlist
+\item
+  Faust, Katherine and \textbf{Martín Jacinto}. ``Are there
+  Core-Periphery Positions in Word Trade Networks? Cluster Analysis in
+  Multi-Relational International Trade Networks, 1965-2000.''
+\end{itemize}
+
+\hypertarget{pedagogical-development}{%
+\section{Pedagogical Development}\label{pedagogical-development}}
+
+\hypertarget{university-of-california-irvines-division-of-teaching-excellence-and-innovation}{%
+\subsubsection{University of California, Irvine's Division of Teaching
+Excellence and
+Innovation}\label{university-of-california-irvines-division-of-teaching-excellence-and-innovation}}
+
+\textbf{Pedagogical Fellow} \hfill 2019-2020
+
+\begin{quote}
+• Facilitated interactive workshops designed to provide new Teaching
+Assistants (TAs) with skills and information that helped them jumpstart
+their teaching careers at the University of California, Irvine
+\end{quote}
+
+\begin{quote}
+• Assessed fellows' teaching performance by conducting in-class
+observation of their teaching then provided one-on-one consultation and
+feedback
+\end{quote}
+
+\begin{quote}
+• Worked with department director on developing an application and
+selection process of new Pedagogical Fellows that protected against
+selection bias, created an inclusive experience, and streamlined an
+effective interviewing process
+\end{quote}
+
+\textbf{DTEI Summer Fellows Program Coordinator} \hfill 2020-2021
+
+\begin{quote}
+• Supported the university in fast-tracking the development of a
+pedagogical training program that prepares faculty and graduate students
+to effectively transition to online remote instruction
+\end{quote}
+
+\begin{quote}
+• Managed and supervised the pedagogical training of 50 fellows and
+faculty from various disciplines.
+\end{quote}
+
+\begin{quote}
+• Assessed fellows' teaching performance by conducting in-class
+observation of their teaching then provided one-on-one consultation and
+feedback
+\end{quote}
+
+\hypertarget{fellowships-grants}{%
+\section{Fellowships \& Grants}\label{fellowships-grants}}
+
+\hypertarget{external}{%
+\subsubsection{External}\label{external}}
+
+\begin{itemize}
+\item
+  Alternate. Ford Foundation Pre-Doctoral Fellowship Program \hfill 2017
+\item
+  Honorable Mention. Ford Foundation Pre-Doctoral Fellowship Program
+  \hfill 2016
+\item
+  Honorable Mention. Ford Foundation Pre-Doctoral Fellowship Program
+  \hfill 2015
+\end{itemize}
+
+\hypertarget{internal}{%
+\subsubsection{Internal}\label{internal}}
+
+\emph{University of California, Irvine}
+
+\begin{itemize}
+\item
+  Summer Fellowship. Division of Teaching Excellence and Innovation
+  (\$5000) \hfill 2020
+\item
+  University of California President's Dissertation Year Fellowship
+  (\$45,826.60) \hfill 2020
+\item
+  Research Fellowship. Center for Global Peace and Conflict Studies
+  (\$1500) \hfill 2020
+\item
+  Research Fellowship. Kugelman Center for Citizen Peacebuilding
+  (\$1200) \hfill 2020
+\item
+  Associate Dean's Fellowship. School of Social Sciences (\$6900)
+  \hfill 2020
+\item
+  Travel Grant. Graduate Division (\$1000) \hfill 2019
+\item
+  Research Fellowship. Kugelman Center for Citizen Peacebuilding
+  (\$1500) \hfill 2019
+\item
+  Summer Research Fellowship. School of Social Sciences (\$1000)
+  \hfill 2017
+\item
+  Travel Grant. Graduate Division (\$1000) \hfill 2016
+\item
+  Research Fellowship. Center for Global Peace and Conflict Studies
+  (\$1500) \hfill 2016
+\item
+  Summer Research Fellowship. School of Social Sciences (\$600)
+  \hfill 2015
+\item
+  Competitive Edge Summer Research Fellowship. Graduate Division
+  (\$5000) \hfill 2014
+\item
+  Eugene Cota-Robles Diversity Fellowship. Graduate Division (\$190,424)
+  \hfill 2014
+\end{itemize}
+
+\hypertarget{presentations}{%
+\section{Presentations}\label{presentations}}
+
+\begin{itemize}
+\item
+  ``The Impact of the 2008-2009 Global Economimc Crisis on the Structure
+  and Dynamics of the World Economy: A Network Analysis of International
+  Trade.''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    · \emph{2021 Annual Meeting of the Pacific Sociological Association
+    (Virtual)}
+  \item
+    · \emph{2019 Annual Meeting of the California Sociological
+    Association (Riverside, CA)}
+  \item
+    · \emph{2018 The Center for Global Peace and Conflict Studies
+    Conference (Irvine, CA)}
+  \end{itemize}
+\item
+  ``Are There Core-Periphery Positions in World Trade Networks? Cluster
+  Analysis in Multi-Relational International Trade Networks, 1965, 1980,
+  and 2000.''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    · \emph{XXXVIII Sunbelt Conference (Utrecht, Netherlands)}
+  \end{itemize}
+\item
+  ``Interrupting the Domestic Democratic Peace: State Repression,
+  Democracy and Social Mobilization in Latin America.''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    · \emph{2017 Annual Meeting of the Sociological Association
+    (Montreal, Canada)}
+  \item
+    · \emph{2016 Annual Meeting of the Society for the Study of Social
+    Problems (Seattle, WA)}
+  \end{itemize}
+\item
+  ``Applying Fuzzy-Set Qualitative Comparative Analysis (fsQCA) to the
+  Study of State Violence and Neoliberal Development in Latin America.''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    · \emph{2015 UC Irvine's Annual Associate Graduate Student Research
+    Symposium (Irvine, CA)}
+  \item
+    · \emph{2014 UC Irvine's Competitive Edge Summer Research Symposium
+    (Irvine, CA)}
+  \end{itemize}
+\item
+  ``Crisis of Democracy and Radical Social Mobilization: The Case of the
+  2006 APPO Movement in Oaxaca, Mexico.''
+
+  \begin{itemize}
+  \tightlist
+  \item
+    · \emph{2012 UC Santa Barbara's 14th Annual Lusofone and Hispanic
+    Graduate Student (Santa Barbara, CA)}
+  \item
+    · \emph{2012 Annual Meeting of the Pacific Sociological Association
+    (Long Beach, CA)}
+  \end{itemize}
+\end{itemize}
+
+\hypertarget{honors-and-awards}{%
+\section{Honors and Awards}\label{honors-and-awards}}
+
+\textbf{Tom Angell Fellowship Award}. University of California Irvine
+\hfill 2020
+
+\begin{quote}
+• The award recognizes one graduate student for demonstrating
+outstanding mentorship and commitment to diversity at UCI.
+\end{quote}
+
+\textbf{Latino Excellence and Achievement Dinner (LEAD) Award}.
+University of California, Irvine \hfill 2018
+
+\begin{quote}
+• Award recognizes graduate students that champion academic success
+amongst the Latinx community at UCI and in Orange County, CA.
+\end{quote}
+
+\hypertarget{service-and-professsional-affiliations}{%
+\section{Service and Professsional
+Affiliations}\label{service-and-professsional-affiliations}}
+
+\hypertarget{external-discipline}{%
+\subsubsection{\texorpdfstring{External
+(\emph{Discipline})}{External (Discipline)}}\label{external-discipline}}
+
+\begin{itemize}
+\item
+  Chair of Graduate Student Paper Competition Committee. Global
+  Division. The Society for the Study of Social Problems
+\item
+  Student Representative. Section of Political Economy and World-System.
+  American Sociological Association.
+\item
+  Manuscript Reviewer. \emph{Sociological Focus}
+\end{itemize}
+
+\hypertarget{internal-department-university-and-community}{%
+\subsubsection{\texorpdfstring{Internal (\emph{Department, University,}
+and
+\emph{Community})}{Internal (Department, University, and Community)}}\label{internal-department-university-and-community}}
+
+\hypertarget{university-of-california-irvine}{%
+\subparagraph{University of California,
+Irvine}\label{university-of-california-irvine}}
+
+\begin{itemize}
+\item
+  Graduate Student Coordinator. Graduate Access Preparation Program
+  (GAPP). Student Outreach and Retention (SOAR) Center
+\item
+  Graduate Student Mentor. Summer Undergraduate Research Fellowship
+  Program. Graduate Division
+\item
+  Humanities and Social Science Chair. Diverse Educational Community and
+  Doctoral Experience (DECADE) Executive Student Council. Graduate
+  Division
+\item
+  Organizer. The Know-How Sessions. Diverse Educational Community and
+  Doctoral Experience (DECADE). Graduate Division
+\item
+  Vice president of Finance. Associated Graduate Student (AGS). Office
+  of Student Affairs
+\item
+  Board Member. Graduate Student and Postdoctoral Resource Center
+  Advisory Board. Graduate Division
+\item
+  Graduate Student Peer Mentor. Peer Mentoring Program. Department of
+  Sociology.
+\end{itemize}
+
+\hypertarget{affiliations}{%
+\paragraph{Affiliations}\label{affiliations}}
+
+\begin{itemize}
+\item
+  American Sociological Association
+
+  \begin{itemize}
+  \item
+    Section Membership:
+
+    \begin{itemize}
+    \item
+      · Political Economy of the World-System
+    \item
+      · Global and Transnational Sociology
+    \item
+      · Sociology of Development
+    \item
+      · Mathematical Sociology
+    \end{itemize}
+  \end{itemize}
+\item
+  Pacific Sociological Association
+\item
+  Society for the Study of Social Problems
+\item
+  Center for Network and Relational Analysis
+\end{itemize}
+
+\hypertarget{skills-and-technical-expertise}{%
+\section{Skills and Technical
+Expertise}\label{skills-and-technical-expertise}}
+
+\begin{itemize}
+\item
+  Technical skills: Microsoft Office (Excel, Word, PowerPoint), SPSS,
+  Stata, R, \LaTeX, HTML, Tableau
+\item
+  Web-based conferencing and communication platforms: Zoom, Canvas,
+  Blackboard, Slack
+\item
+  Languages: Spanish (advanced fluency in speaking and reading;
+  intermediate fluency in writing)
+\end{itemize}
+
+\hypertarget{section}{%
+\section{}\label{section}}
+
+\textbf{Updated 2022-06-13}
+
+\end{document}

@@ -18,25 +18,23 @@ fontawesome: yes
 address: College of Behavioral and Social Sciences · Butte Hall, Room 701 · Chico, CA 95929
 update: no
 urlcolor: blue
-web: sites.uci.edu/martinjacinto726
+web: https://martin726.github.io/mjacinto-website/
 ---
 
-```{r , eval=FALSE, include=FALSE}
-
-rmarkdown::render("CV_main.Rmd", 
-                 output_file=
-                   "~/Documents/GitHub/martin_jacinto_website/static/files/CV_main.pdf")
-
+```{r eval=FALSE, include=FALSE}
+rmarkdown::render("~/Documents/GitHub/Curriculum-vitae/CV_Rmd/CV_main.Rmd", 
+                  output_file="CV_mj.pdf",
+                 output_dir=
+                 "~/Documents/GitHub/mjacinto-website/files")
 ```
 
 
 ```{r setup, include=FALSE, eval=FALSE}
 
 knitr::opts_chunk$set(echo=TRUE, cache = TRUE, warning = FALSE, 
-                      message = FALSE, cache.lazy = FALSE)
+                      message = FALSE)
 require("knitr")
-library(vitae)
-
+library(markdown)
 ```
 
 # Education
@@ -264,7 +262,8 @@ Student Outreach and Retention (SOAR) Center
 
 * Languages: Spanish (advanced fluency in speaking and reading; intermediate fluency in writing)
 
-Updated `r Sys.Date()`
+#
+**Updated `r Sys.Date()`**
 
 
 
