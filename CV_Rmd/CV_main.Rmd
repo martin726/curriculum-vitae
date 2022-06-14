@@ -18,7 +18,7 @@ fontawesome: yes
 address: College of Behavioral and Social Sciences · Butte Hall, Room 701 · Chico, CA 95929
 update: no
 urlcolor: blue
-web: https://martin726.github.io/mjacinto-website/
+github: www.github.com/martin726
 ---
 
 ```{r eval=FALSE, include=FALSE}
