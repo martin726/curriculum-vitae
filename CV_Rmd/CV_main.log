@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.13)  14 JUN 2022 10:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.6.13)  16 JUN 2022 16:28
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -189,7 +189,7 @@ Package: fancyhdr 2022/05/18 v4.0.3 Extensive control of page headers and footer
 ) (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/latex/lastpage/lastpage.sty
 Package: lastpage 2021/09/03 v1.2n Refers to last page's name (HMM; JPG)
 ) (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2022-05-17 v7.00q Hypertext links for LaTeX
+Package: hyperref 2022-06-13 v7.00r Hypertext links for LaTeX
 (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
 (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/generic/infwarerr/infwarerr.sty
@@ -221,7 +221,7 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 \Hy@linkcounter=\count276
 \Hy@pagecounter=\count277
 (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2022-05-17 v7.00q Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-06-13 v7.00r Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
@@ -231,7 +231,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count278
 (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2022-05-17 v7.00q Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-06-13 v7.00r Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -274,7 +274,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2022-05-17 v7.00q Hyperref driver for pdfTeX
+File: hpdftex.def 2022-06-13 v7.00r Hyperref driver for pdfTeX
 (/Users/macbookpro/Library/TinyTeX/texmf-dist/tex/latex/base/atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -500,18 +500,18 @@ Package rerunfilecheck Info: File `CV_main.out' has not changed.
 (rerunfilecheck)             Checksum: 0D6AEFF70E5406A785D5464AC5B65622;3330.
  ) 
 Here is how much of TeX's memory you used:
- 13510 strings out of 480000
- 210454 string characters out of 5887254
- 526187 words of memory out of 5000000
- 31415 multiletter control sequences out of 15000+600000
+ 13514 strings out of 480000
+ 210522 string characters out of 5887254
+ 526211 words of memory out of 5000000
+ 31419 multiletter control sequences out of 15000+600000
  512346 words of font info for 90 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  70i,11n,76p,1196b,509s stack positions out of 10000i,1000n,20000p,200000b,200000s
 {/Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/enc/dvips/base/8r.enc} </Users/macbookpro/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1000.600pk>{/Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}</Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/macbookpro/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on CV_main.pdf (5 pages, 149587 bytes).
+Output written on CV_main.pdf (5 pages, 145633 bytes).
 PDF statistics:
- 223 PDF objects out of 1000 (max. 8388607)
- 175 compressed objects within 2 object streams
+ 214 PDF objects out of 1000 (max. 8388607)
+ 174 compressed objects within 2 object streams
  50 named destinations out of 1000 (max. 500000)
  161 words of extra memory for PDF output out of 10000 (max. 10000000)
 
